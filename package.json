@@ -1,0 +1,28 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "assignment1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satishkumar529/NodeJsAssignment1.git"
+  },
+  "keywords": [
+    "nodejs",
+    "readfile",
+    "yargs"
+  ],
+  "author": "satish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satishkumar529/NodeJsAssignment1/issues"
+  },
+  "homepage": "https://github.com/satishkumar529/NodeJsAssignment1#readme",
+  "dependencies": {
+    "yargs": "^15.4.1"
+  }
+}
